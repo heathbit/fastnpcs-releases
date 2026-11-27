@@ -14,3 +14,5 @@ Foundry VTT 13 and 14, with the Dungeons & Dragons Fifth Edition system. The cur
 ![Portrait Maker and Bulk Generator inside Foundry VTT](images/foundry-wide.webp)
 
 ![A tavern encounter with FastNPCs tokens, a character sheet, and printed stat blocks](images/tavern-encounter-wide.webp)
+
+[![FastNPCs is live](https://img.youtube.com/vi/3gCejS2g0l8/maxresdefault.jpg)](https://www.youtube.com/watch?v=3gCejS2g0l8)
