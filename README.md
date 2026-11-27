@@ -15,4 +15,4 @@ Foundry VTT 13 and 14, with the Dungeons & Dragons Fifth Edition system. The cur
 
 ![A tavern encounter with FastNPCs tokens, a character sheet, and printed stat blocks](images/tavern-encounter-wide.webp)
 
-[![FastNPCs is live](https://img.youtube.com/vi/3gCejS2g0l8/maxresdefault.jpg)](https://www.youtube.com/watch?v=3gCejS2g0l8)
+[![Play: FastNPCs is live](images/launch-video.jpg)](https://www.youtube.com/watch?v=3gCejS2g0l8)
