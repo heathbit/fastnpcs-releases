@@ -11,8 +11,8 @@ This repository holds the public Foundry module releases. The module source is n
 
 Foundry VTT 13 and 14, with the Dungeons & Dragons Fifth Edition system. The current module is 1.1.3.
 
+[![Play: FastNPCs is live](images/launch-video.jpg)](https://www.youtube.com/watch?v=3gCejS2g0l8)
+
 ![Portrait Maker and Bulk Generator inside Foundry VTT](images/foundry-wide.webp)
 
 ![A tavern encounter with FastNPCs tokens, a character sheet, and printed stat blocks](images/tavern-encounter-wide.webp)
-
-[![Play: FastNPCs is live](images/launch-video.jpg)](https://www.youtube.com/watch?v=3gCejS2g0l8)
