@@ -1,5 +1,7 @@
 # FastNPCs
 
+Generate up to 20 ready-to-play NPCs in seconds, each with a token, stats, weapons, gear, spells, and a completely unique portrait from the custom Portrait Builder, which you can use to edit a face or randomize a new one.
+
 FastNPCs creates D&D 5e NPC actors inside Foundry VTT. A batch becomes actors with matching portraits, tokens on the map, and gameplay-ready items, weapons, spells, skills, stats, and descriptions. A FastNPCs account is required.
 
 Open the Portrait Builder and the Bulk Generator from inside Foundry. Generate up to 20 NPCs at a time, with challenge ratings set from the party's size and level. Each NPC is an actor with Foundry equipment, skills, stats, and features. The portrait becomes the token. You can place those tokens on the scene, give them unique borders and colors, and open the portrait tools from a token's controls or the actor sheet, including for an actor that was already in the world.
