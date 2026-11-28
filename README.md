@@ -4,7 +4,7 @@ FastNPCs creates D&D 5e NPC actors inside Foundry VTT. A batch becomes actors wi
 
 Open the Portrait Builder and the Bulk Generator from inside Foundry. Generate up to 20 NPCs at a time, with challenge ratings set from the party's size and level. Each NPC is an actor with Foundry equipment, skills, stats, and features. The portrait becomes the token. You can place those tokens on the scene, give them unique borders and colors, and open the portrait tools from a token's controls or the actor sheet, including for an actor that was already in the world.
 
-**No AI is used to generate portrait images.** I hand craft and edit every facial feature by hand as SVG artwork: eyes, ears, noses, mouths, hairstyles, facial hair, horns, scars, and more. Each piece is made so it can be recolored, resized, and combined into a face that still holds together. Randomize a face or choose each feature yourself. The library is hundreds of those hand-crafted features, and new ones are added over time.
+**No AI is used to generate portrait images.** I hand craft and edit every facial feature by me as SVG artwork: eyes, ears, noses, mouths, hairstyles, facial hair, horns, scars, and more. Each piece is made so it can be recolored, resized, and combined into a face that still holds together. Randomize a face or choose each feature yourself. The library is hundreds of those hand-crafted features, and new ones are added over time.
 
 This repository holds the public Foundry module releases. The module source is not published here.
 
